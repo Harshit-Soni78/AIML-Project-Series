@@ -92,20 +92,17 @@ This project is a Basic Q & A Bot specifically designed to assist with college a
 6. **chatbot_model.h5**:
    - Trained chatbot model.
 
-
-.
-├── admission_data.json        # Dataset for training the chatbot
-├── train_bot.py               # Script to train the chatbot model
-├── chatgui.py                 # Script to run the chatbot GUI
-├── README.md                  # Project documentation
-├── requirements.txt           # Python dependencies
-├── model                      # Directory to save the trained model and related files
-│   ├── chatbot_model.h5       # Trained chatbot model
-│   ├── classes.pkl            # Pickled classes
-│   ├── words.pkl              # Pickled words
-└──────────────────────────────────────────────────────────────────────── 
-
-
+      ```bash
+      ├── admission_data.json        # Dataset for training the chatbot
+      ├── train_bot.py               # Script to train the chatbot model
+      ├── chatgui.py                 # Script to run the chatbot GUI
+      ├── README.md                  # Project documentation
+      ├── requirements.txt           # Python dependencies
+      ├── model                      # Directory to save the trained model and related files
+      │   ├── chatbot_model.h5       # Trained chatbot model
+      │   ├── classes.pkl            # Pickled classes
+      │   ├── words.pkl              # Pickled words
+      └──────────────────────────────────────────────────────────────────────── 
 
 ## Features
 
