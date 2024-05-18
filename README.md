@@ -39,7 +39,7 @@ Possible enhancements for the chatbot include:
 - Adding support for multi-turn conversations and maintaining longer context histories.
 
 
-# # Project 2: Basic Q & A Bot for College Admission
+# Project 2: Basic Q & A Bot for College Admission
 
 ## Project Overview
 
