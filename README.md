@@ -1,6 +1,6 @@
 # AIML-Project-Series
 
-# Project 1: Simple Chatbot &amp;
+# Project 1: Simple Chatbot
 
 ## Introduction
 This project implements a simple chatbot using Python. The chatbot is capable of engaging in conversations with users by responding to greetings, answering basic questions, recalling previous interactions, and handling user inputs gracefully.
@@ -38,5 +38,3 @@ Possible enhancements for the chatbot include:
 - Implementing sentiment analysis for more nuanced responses.
 - Adding support for multi-turn conversations and maintaining longer context histories.
 
-
-# Project 2: Basic Q &amp; A Bot for College Admission
